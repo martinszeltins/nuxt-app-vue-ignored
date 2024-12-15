@@ -10,10 +10,6 @@ export default defineNuxtConfig({
         }
     },
 
-    css: [
-        '~/common/assets/css/app.css'
-    ],
-
     components: [
         {
             path: '~/common/components',
@@ -32,10 +28,4 @@ export default defineNuxtConfig({
         typedPages: true,
         scanPageMeta: true,
     },
-
-    vite: {
-        plugins: [
-            tailwindcss(),
-        ]
-    }
 })
