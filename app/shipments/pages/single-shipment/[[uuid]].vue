@@ -1,5 +1,5 @@
 <template>
     <div class="text-red-600">
-        <SingleShipmentForm />
+        This is my /single-shipment page
     </div>
 </template>

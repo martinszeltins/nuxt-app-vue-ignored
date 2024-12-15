@@ -1,6 +1,8 @@
 <template>
     <div class="h-screen bg-gray-700 text-gray-200">
-        <div>HELLO</div>
+        <div>THIS IS APP.VUE</div>
+        <div>THIS IS APP.VUE</div>
+        <div>THIS IS APP.VUE</div>
         
         <NuxtLoadingIndicator />
         
@@ -8,6 +10,8 @@
             <NuxtPage />
         </NuxtLayout>
 
-        <div>BYE BYE</div>
+        <div>THIS IS APP.VUE</div>
+        <div>THIS IS APP.VUE</div>
+        <div>THIS IS APP.VUE</div>
     </div>
 </template>
